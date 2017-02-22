@@ -1,0 +1,16 @@
+{
+  "name": "opendatalayer-datatype-mocks",
+  "version": "0.0.1",
+  "description": "Simple module that provides mock data for ODL types to use in tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "opendatalayer",
+    "odl",
+    "mocks"
+  ],
+  "author": "Rico Pfaus",
+  "license": "MIT"
+}
