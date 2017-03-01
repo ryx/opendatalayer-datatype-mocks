@@ -1,10 +1,11 @@
 {
   "name": "opendatalayer-datatype-mocks",
   "version": "0.0.1",
-  "description": "Simple module that provides mock data for ODL types to use in tests",
+  "description": "Provides mock data for OpenDatalayer types to be used in unit tests",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryx/opendatalayer-datatype-mocks"
   },
   "keywords": [
     "opendatalayer",
